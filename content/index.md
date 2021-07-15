@@ -1,6 +1,6 @@
 # Welcome to the Example Discipline
 
-![](logo.png){width=300}
+<img src=logo.png width="300px"/>
 
 Write here a short description of the discipline, something more for motivational/marketing than bureaucratic.
 
